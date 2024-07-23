@@ -1,4 +1,4 @@
-![signup](https://github.com/user-attachments/assets/b4302ff1-539d-4df7-8163-a4f8dbab2a6f)![login](https://github.com/user-attachments/assets/9e3ba687-5702-45fd-88f7-cd6d8f455812)# Car-rental-website
+# Car-rental-website
 
 This project is a full-stack car rental website designed to streamline the process of renting vehicles for users while providing comprehensive administrative tools for managing car services.
 
